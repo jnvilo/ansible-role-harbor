@@ -1,3 +1,0 @@
----
-- name: create_do_install
-  file: path=/usr/local/harbor/do_install.txt
